@@ -87,7 +87,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/login/static/login/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -173,10 +173,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="574" y="134" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590397641411" />
-    <state x="938" y="437" key="com.intellij.ide.util.TipDialog" timestamp="1590461986434">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="625" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1598153224556">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="938" y="437" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590461986434" />
+    <state x="625" y="321" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1598153224556" />
     <state x="998" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1590458426514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
